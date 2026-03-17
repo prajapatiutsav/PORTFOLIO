@@ -14,8 +14,6 @@ padding:40px 20px;
 line-height:1.6;
 }
 
-/* HEADER */
-
 header{
 text-align:center;
 margin-bottom:60px;
@@ -38,8 +36,6 @@ padding-bottom:3px;
 border-bottom:1px solid white;
 }
 
-/* SECTIONS */
-
 section{
 margin-bottom:50px;
 }
@@ -51,15 +47,11 @@ border-bottom:1px solid white;
 padding-bottom:5px;
 }
 
-/* UNIVERSAL BOX STYLE */
-
 .box{
 border:1px solid white;
 padding:20px;
 margin-bottom:20px;
 }
-
-/* SKILLS GRID */
 
 .skills{
 display:grid;
@@ -72,8 +64,6 @@ margin-top:10px;
 padding-left:20px;
 }
 
-/* LINKS */
-
 a{
 color:white;
 }
@@ -82,8 +72,6 @@ color:white;
 margin-top:10px;
 color:#cccccc;
 }
-
-/* FOOTER */
 
 footer{
 text-align:center;
